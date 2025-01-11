@@ -1,4 +1,5 @@
-masterbank.strings.bank
-masterbank.bank
-masterbank.assets.bank
-.gitattributes
+/masterbank.strings.bank
+/masterbank.bank
+/masterbank.assets.bank
+/.gitattributes
+/.gitignore
